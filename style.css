@@ -1,0 +1,165 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4 {
+  font-weight: 1000;
+}
+
+.navbar {
+  background: #32265D;
+  height: 80px;
+}
+
+.nav-link {
+  color: #F5F5F5;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 20px;
+  margin-left: 24px;
+}
+
+.downloadButton {
+  background-color: #9A7DAB;
+  flex-shrink: 0;
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  margin-right: 90px;
+  font-size: 20px;
+}
+
+.jumbotron {
+  background: #EFEAFF;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 32px;
+  padding-bottom: 0px;
+}
+
+.heroImg {
+  height: 600px;
+}
+
+.heroText {
+  margin: 20px;
+}
+
+.download {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  top: -180px;
+  left: 220px;
+}
+
+.download img {
+  margin-left: 16px;
+  height:58px;
+}
+
+.btn_learnMore{
+  flex-shrink: 0;
+  color: #3800FF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 14px;
+  border-color: #3800FF;
+}
+.container_margin {
+  margin-top: 80px;
+}
+
+.img1 {
+  height: 400px;
+}
+
+.purplebg {
+  background: #EFEAFF;
+}
+
+.btn_learnMore_1 {
+  background: #32265D;
+  color: #F5F5F5;
+  border-color: #32265D;
+
+}
+
+.download_1 {
+  position: relative;
+  top: 0px;
+  left: 200px;
+}
+
+.download_2 {
+  position: relative;
+  top: 0px;
+  left: 220px;
+}
+
+
+.mockup_1 {
+  height: 350px;
+  position: relative;
+  top: 20px;
+  left: 150px;
+}
+.mockup_2 {
+  height: 370px;
+  position: relative;
+  top: 0px;
+  left: 260px;
+}
+
+.logo_1 {
+  position: relative;
+  top: 0px;
+  left: 200px;
+  height: 220px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.social-links {
+  text-align: right;
+}
+
+.social-links a {
+  color: white;
+  margin-left: 10px;
+}
+
+footer {
+  background: #32265D;
+}
+
+footer a,footer p {
+  color: #F5F5F5;
+  color: #FFF;
+text-align: right;
+font-family: Montserrat;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 160% */
+letter-spacing: -0.225px;
+}
+
